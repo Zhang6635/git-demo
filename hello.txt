@@ -1,4 +1,7 @@
-hello zlz! 123
+<<<<<<< HEAD
+=======
+hello zlz! 456
+>>>>>>> hot-fix
 hello zlz!
 hello zlz!
 hello zlz!

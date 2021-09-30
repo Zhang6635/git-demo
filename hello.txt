@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
-hello zlz! 456
->>>>>>> hot-fix
+hello zlz! master test new content
 hello zlz!
 hello zlz!
 hello zlz!

@@ -13,3 +13,4 @@ hello zlz!
 hello zlz!
 
 add new comtent
+tset pull
